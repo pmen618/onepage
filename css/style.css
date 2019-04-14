@@ -204,7 +204,7 @@ p:last-child{
     background-size: cover !important;
 }
 .b-blue {
-  background: url(img/6.jpg);
+  background: url(../img/6.jpg);
   /*
   #5fc7ea;
    */
